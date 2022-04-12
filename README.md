@@ -1,4 +1,4 @@
-![Banner](https://github.com/NorsHiden/Intra42Api-wrapper_moduleblob/master/apiwrapper.png)
+![Banner](https://github.com/NorsHiden/Intra42Api-wrapper_module/blob/master/apiwrapper.png)
 
 ## 42 Network API Wrapper
 Intra42api simply allows you to connect with **42 Network** API and to get all the desired data in an easy way.
